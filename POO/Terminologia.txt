@@ -1,0 +1,30 @@
+- CLASES: son documentos en las que se define el comportamiento del objeto, sus propiedad, las acciones que puede realizar, como se usará el objeto, etc.
+
+- INSTANCIAS o INSTANCIAR: es crear un objeto a partir de una clase. 
+
+- ESTADO: es un conjunto de valores almacenados que pueden ser modificados mientras el programa se ejecuta. Por ejemplo, el estado de un objeto, son los valores que tienen las propiedades de un objeto.
+- PROPIEDADES: 
+  De un objeto son diferentes entre ellos
+  Estado son los valores en el momento que se consultan
+  Tiene un tipo definido de los datos.
+
+- CONTEXTO: this o self (en python es self) nos permiten identificar un objeto dentro de la clase. Quiere decir, que identica al objeto que se está usando en un momento determinado y el valor de sus propiedades.
+
+- MÉTODO CONSTRUCTOR es def __init___(self): en pyton. Se ejecuta cada vez qeu se crea un nuevo objeto de la clase, por lo que no debe ser muy complicado. 
+  Debe limitarse a inicializar los valores de un objeto y poco mas.
+
+- HERENCIA: permite que un objeto herede las propiedades y métodos de un objeto padre o base y, en el hijo podemos agregar, modificar o quitar propiedades heredadas del padre.
+  Para utilizarla, la clase debe responder a es un/a de su clase padre. Por ejemplo, la clase padre es mamífero y foca ES UNA clase hija y se puede heredar propiedades. 
+  si tienes qeu sobreescribir muchos métodos en la clase hija de la clase padre, es que quizás no debieras utilizar la herencia.
+
+- ENCAPSULACIÓN: los datos y las funciones que los manipulan se mandan como una unidad. Provee al objeto la cualidad de ocultar sus datos de como ejecuta sus métodos. Esto tiene un alcance y una capacidad de acceso a las propiedades de un método o funionalidad:
+  Público: desde la clase que se declaró, dese las clases que heredan y desde una instancia.
+  Protegido: desde la clase que se declaró, dese las clases que heredan.
+  Privado: desde la clase que se declaró.
+Importa el cómo hace que un objeto.
+
+- ABSTRACCIÓN: ocultar detalles de cómo un objeto realiza una tarea y centrarte en qué hará el obejto.
+Importa el qué hace un objeto.
+
+- POLIMORFISMO: 
+

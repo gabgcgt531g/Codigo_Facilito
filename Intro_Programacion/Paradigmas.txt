@@ -1,0 +1,12 @@
+Programación estructurada.
+  Se escribe de forma secuencial.
+  - Secuencia.
+      Las instrucción se ejecutan una detras de otra, en el orden que se han definido en le código y tiene definido el principio y el fin,
+  - Selección.
+      Evalua una condición y en función del resultado se decide que bloque de código se ejecuta.
+  - Iteración.
+      Ejecución repetida de una instrucción mientras se cumpla una condición.
+
+Programación orientada a objetos.
+  Basado en objetos, cada uno tiene sus propiedades características y se describen acciones específicas.
+  Las clases o plantillas, que son prototipos o moldes para crear nuevos objetos.
